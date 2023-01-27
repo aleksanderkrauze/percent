@@ -1,0 +1,9 @@
+[package]
+name = "percent"
+version = "0.0.0"
+authors = ["Aleksander Krauze"]
+edition = "2021"
+description = "Percent-escaped string formatting"
+keywords = ["percent", "escaping", "formatting"]
+repository = "https://github.com/aleksanderkrauze/percent"
+license = "MIT OR Apache-2.0"
